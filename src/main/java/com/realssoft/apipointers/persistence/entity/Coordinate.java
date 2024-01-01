@@ -1,4 +1,4 @@
-package com.example.apipointers.persistence.entity;
+package com.realssoft.apipointers.persistence.entity;
 
 import jakarta.persistence.Column;
 import jakarta.persistence.Entity;

@@ -1,6 +1,6 @@
-package com.example.apipointers.persistence.repository;
+package com.realssoft.apipointers.persistence.repository;
 
-import com.example.apipointers.persistence.entity.Coordinate;
+import com.realssoft.apipointers.persistence.entity.Coordinate;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

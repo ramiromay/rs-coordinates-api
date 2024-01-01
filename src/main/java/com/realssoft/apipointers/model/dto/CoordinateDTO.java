@@ -1,4 +1,4 @@
-package com.example.apipointers.model.dto;
+package com.realssoft.apipointers.model.dto;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;

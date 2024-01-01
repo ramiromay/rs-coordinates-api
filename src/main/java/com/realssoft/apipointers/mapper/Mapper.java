@@ -1,4 +1,4 @@
-package com.example.apipointers.mapper;
+package com.realssoft.apipointers.mapper;
 
 public interface Mapper <E, DTO>
 {

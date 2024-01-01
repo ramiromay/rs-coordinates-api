@@ -1,8 +1,8 @@
-package com.example.apipointers.mapper.impl;
+package com.realssoft.apipointers.mapper.impl;
 
-import com.example.apipointers.mapper.Mapper;
-import com.example.apipointers.model.dto.CoordinateDTO;
-import com.example.apipointers.persistence.entity.Coordinate;
+import com.realssoft.apipointers.mapper.Mapper;
+import com.realssoft.apipointers.model.dto.CoordinateDTO;
+import com.realssoft.apipointers.persistence.entity.Coordinate;
 import org.springframework.stereotype.Service;
 
 @Service

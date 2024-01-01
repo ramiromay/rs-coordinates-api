@@ -1,4 +1,4 @@
-package com.example.apipointers.config;
+package com.realssoft.apipointers.config;
 
 import org.springframework.context.annotation.Configuration;
 import org.springframework.web.servlet.config.annotation.CorsRegistry;
