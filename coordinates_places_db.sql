@@ -1,8 +1,8 @@
 -- Crear la base de datos si no existe
-CREATE DATABASE pointers_db;
+CREATE DATABASE coordinates_places_db;
 
 -- Conectar a la base de datos
-\c pointers_db;
+\c coordinates_places_db;
 
 -- Crear la tabla de coordenadas
 CREATE TABLE IF NOT EXISTS coordinates
