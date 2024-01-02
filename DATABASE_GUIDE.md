@@ -7,11 +7,11 @@
 2. Luego, dentro de la interfaz de PostgreSQL, puedes ejecutar los comandos SQL
   para crear la base de datos manualmente.
    ```sql
-   CREATE DATABASE pointers_db;
+   CREATE DATABASE coordinates_places_db;
    ```
 3. Ahora es necesario conectarse a la base de datos.
    ```shell
-   \c pointers_db;
+   \c coordinates_places_db;
    ```
 4. Cree las siguientes tablas.
    ```sql

@@ -31,7 +31,7 @@ y ejecute el siguiente comando para clonar el repositorio (proyecto) a su equipo
 3. Introduzca el siguiente comando para crear la base de datos.
 Es necesario cambiar `tu_usuario` por tu usuario de postgres.  
     ```shell
-    psql -U tu_usuario -f pointers_db.sql
+    psql -U tu_usuario -f coordinates_places_db.sql
     ```
    > NOTA: Es muy posible que después de ejecutar el comando se 
    > requiera la contraseña de postgres.
@@ -43,7 +43,7 @@ por sus credenciales de PostgreSQL y la URL de la base de datos.
     ```properties
     spring.datasource.username=${POSTGRESQL_USERNAME}
     spring.datasource.password=${POSTGRESQL_PASSWORD}
-    spring.datasource.url=${POSTGRESQL_URL}/pointers_db
+    spring.datasource.url=${POSTGRESQL_URL}/coordinates_places_db
     ```
    
 5. Ya tiene todo listo para empezar a probar la API. 👨🏻‍💻
