@@ -11,7 +11,7 @@
    ```
 3. Ahora es necesario conectarse a la base de datos.
    ```shell
-   \c pointers_bd;
+   \c pointers_db;
    ```
 4. Cree las siguientes tablas.
    ```sql

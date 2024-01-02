@@ -54,7 +54,7 @@ por sus credenciales de PostgreSQL y la URL de la base de datos.
 
 #### Atributos (Objeto)
 ```java
-public class Coordinate {
+public class CoordinateDTO {
     private Double lat;
     private Double lng;
     private Date date;
